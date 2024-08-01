@@ -1,4 +1,3 @@
-Introduction
 Dr. Ajo Babu George, a distinguished maxillofacial radiologist, expertly integrates deep learning into clinical practice during their biodesign fellowship. Their work focuses on leveraging computational models to enhance diagnostic and treatment protocols in oral medicine and radiology. An active participant in the MCCAI ToothFairy 2024 challenge, Dr. [Your Name] seeks to advance medical imaging through innovative machine learning applications.
 
 Methods and Processes
